@@ -1,20 +1,11 @@
-### Hi there 👋
+# Hi, I'm Vadim Filimonov
 
-<!--
-**VadimFilimonov/VadimFilimonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Go Backend Engineer**
 
-Here are some ideas to get you started:
+I'm a software engineer focused on backend development, primarily working with **Go** and **PostgreSQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building reliable, maintainable backend services and exploring software architecture.
 
-I am [Vadim Filimonov](https://vadimfilimonov.github.io), javascript/golang developer and [blogger](http://t.me/filimonovvadim) based in Moscow, Russia.
+### Get in touch
 
-📫 Reach me out at philimonov.vadim@gmail.com
+Feel free to reach out: **[filimonov@duck.com](mailto:filimonov@duck.com)**
